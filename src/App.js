@@ -3,7 +3,7 @@ import './style.css';
 
 export default function App() {
   return (
-    <div>
+    <div className="app">
       <h1>Hello Amazon!</h1>
     </div>
   );
