@@ -1,3 +1,3 @@
-# react-v3kzjs
+# Amazon Clone
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-v3kzjs)
+[WATCH LIVE](https://react-50650.firebaseapp.com)
